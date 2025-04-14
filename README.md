@@ -1,5 +1,5 @@
 # RAMYA LAKSHMINARASIMHAN 
-✨ Amateur Bioinformatician|Researcher @ Stanford✨
+✨ Amateur Bioinformatician| Researcher @ Stanford✨
   
  🔭 I’m currently working on Spatial transcriptomic projects and developing bioinformatics pipelines to enable smoother and better data visualization.
 
